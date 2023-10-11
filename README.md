@@ -15,9 +15,17 @@ apply the interface rather than the tangible class
 - Law of Demeter (LoD)
 
 ## Creational Patterns
-- Factory method
-- Abstract factory method
-- Singleton
+- Factory Pattern
+![Factory pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-11%20at%2008.15.51.png?raw=true)
+![Abstract Factory pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-11%20at%2008.26.42.png?raw=true)
+
+- Abstract factory Pattern
+![Abstract Factory pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-11%20at%2008.16.20.png?raw=true)
+![Abstract Factory pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-11%20at%2008.27.59.png?raw=true)
+
+- Singleton Pattern
+![Abstract Factory pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-11%20at%2010.47.30.png?raw=true)
+
 ## Structural Patterns
 - Adapter
 - Composite
