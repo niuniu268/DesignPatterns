@@ -60,9 +60,12 @@ apply the interface rather than the tangible class
 - Command
 ![command pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2020.21.11.png?raw=true)
 ![command pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2020.22.23.png?raw=true)
-![command pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2020.23.37.png?raw=true)
+![command pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2020.22.37.png?raw=true)
 
 - Observer
 
 
 - Strategy
+![strategy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2021.41.31.png?raw=true)
+![strategy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2021.41.47.png?raw=true)
+![strategy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2021.42.17.png?raw=true)
