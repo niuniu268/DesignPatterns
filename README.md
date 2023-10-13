@@ -58,7 +58,9 @@ apply the interface rather than the tangible class
 ![template method pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2019.44.56.png?raw=true)
 
 - Command
-
+![command pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2020.21.11.png?raw=true)
+![command pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2020.22.23.png?raw=true)
+![command pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2020.23.37.png?raw=true)
 
 - Observer
 
