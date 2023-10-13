@@ -32,6 +32,8 @@ apply the interface rather than the tangible class
 ![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2008.24.26.png?raw=true)
 - Decorator
 ![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2009.11.39.png?raw=true)
+![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.46.14.png?raw=true)
+![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.46.27.png?raw=true)
 - Adapter
 - Composite
 
