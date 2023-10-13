@@ -30,9 +30,11 @@ apply the interface rather than the tangible class
 - Proxy
 ![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2007.39.56.png?raw=true)
 ![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2008.24.26.png?raw=true)
+- Decorator
+![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2009.11.39.png?raw=true)
 - Adapter
 - Composite
-- Decorator
+
 
 ## Behavioral Patterns
 - Observer
