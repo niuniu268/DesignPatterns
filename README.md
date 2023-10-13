@@ -70,5 +70,5 @@ apply the interface rather than the tangible class
 
 - Strategy
 ![strategy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2021.41.31.png?raw=true)
-![strategy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2021.41.47.png?raw=true)
+![strategy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2021.41.43.png?raw=true)
 ![strategy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2021.42.17.png?raw=true)
