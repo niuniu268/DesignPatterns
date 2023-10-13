@@ -29,7 +29,7 @@ apply the interface rather than the tangible class
 ## Structural Patterns
 - Proxy
 ![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2007.39.49.png?raw=true)
-![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2007.39.59.png?raw=true)
+![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2007.39.56.png?raw=true)
 ![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2008.24.26.png?raw=true)
 - Adapter
 - Composite
