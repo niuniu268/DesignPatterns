@@ -35,12 +35,16 @@ apply the interface rather than the tangible class
 ![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.46.14.png?raw=true)
 ![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.46.27.png?raw=true)
 - Adapter
-![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.54.30.png?raw=true)
-![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.14.50.png?raw=true)
-![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.19.41.png?raw=true)
-![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.20.19.png?raw=true)
+![adapter pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.54.30.png?raw=true)
+![adapter pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.14.50.png?raw=true)
+![adapter pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.19.41.png?raw=true)
+![adapter pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.20.19.png?raw=true)
 
 - Facade
+![adapter pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2015.24.54.png?raw=true)
+![adapter pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2015.37.47.png?raw=true)
+![adapter pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2015.38.48.png?raw=true)
+
 
 ## Behavioral Patterns
 - Template method
