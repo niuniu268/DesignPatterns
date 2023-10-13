@@ -2,67 +2,77 @@ package main
 
 import "fmt"
 
-//
-//type Role struct {
-//	equipment string
-//}
-//
-//func (r Role) Battle() {
-//	if r.equipment == "Knife" {
-//		k := new(Knife)
-//		fmt.Println(r.equipment)
-//		k.UseWeapon()
-//
-//	} else {
-//		a := new(Ak47)
-//		fmt.Println(r.equipment)
-//		a.UseWeapon()
-//	}
-//
-//}
-
-type Strategy interface {
-	UseWeapon()
+type Listener interface {
+	TeacherComing()
 }
 
-type Knife struct {
+type Notify interface {
+	AddListener(l Listener)
+	RemoveListener(l Listener)
+	Notify()
 }
 
-func (k *Knife) UseWeapon() {
-	fmt.Println("use knife")
+type Student1 struct {
+	distract string
+}
+
+func (s Student1) TeacherComing() {
+	fmt.Println("student 1 stop ", s.distract)
 
 }
 
-type Ak47 struct {
+type Student2 struct {
+	distract string
 }
 
-func (a *Ak47) UseWeapon() {
-	fmt.Println("use AK47")
-}
-
-type Hero struct {
-	strategy Strategy
-}
-
-func (h *Hero) SetStrategy(s Strategy) {
-	h.strategy = s
+func (s Student2) TeacherComing() {
+	fmt.Println("student 2 stop ", s.distract)
 
 }
 
-func (h *Hero) Battle() {
-	h.strategy.UseWeapon()
+type Master struct {
+	list []Listener
+}
+
+func (m *Master) AddListener(l Listener) {
+	m.list = append(m.list, l)
+
+}
+
+func (m *Master) RemoveListener(l Listener) {
+	for index, value := range m.list {
+
+		if value == l {
+			m.list = append(m.list[:index], m.list[index+1:]...)
+			break
+		}
+
+	}
+}
+func (m *Master) Notify() {
+	for _, value := range m.list {
+
+		fmt.Println(value)
+		value.TeacherComing()
+
+	}
+
 }
 
 func main() {
 
-	//r := &Role{
-	//	equipment: "Knife",
-	//}
-	//r.Battle()
+	s1 := &Student1{
+		distract: "aaa",
+	}
+	s2 := &Student2{
+		distract: "bbb",
+	}
 
-	var h = &Hero{}
+	master := new(Master)
+	master.AddListener(s1)
+	master.AddListener(s2)
 
-	h.SetStrategy(new(Knife))
-	h.Battle()
+	fmt.Println("-------")
+	master.Notify()
 
 }
