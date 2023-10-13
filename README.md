@@ -35,9 +35,15 @@ apply the interface rather than the tangible class
 ![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.46.14.png?raw=true)
 ![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.46.27.png?raw=true)
 - Adapter
-- Composite
+![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2011.54.30.png?raw=true)
+![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.14.50.png?raw=true)
+![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.19.41.png?raw=true)
+![decorator pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2012.20.19.png?raw=true)
 
+- Facade
 
 ## Behavioral Patterns
+- Template method
+- Command
 - Observer
 - Strategy
