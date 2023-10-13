@@ -52,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsDialog.application.dockerConsole&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go Build.go build designpatterns/factorymodel2">
+  <component name="RunManager" selected="Go Build.go build designpatterns/singletonmodel">
     <configuration name="go build designpatterns/CRP" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="designpatterns" />
       <working_directory value="$PROJECT_DIR$" />
@@ -69,15 +69,6 @@
       <package value="designpatterns/LSP" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/LSP/Lsp.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build designpatterns/OCP" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="designpatterns" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="designpatterns/OCP" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/OCP/Ocp.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build designpatterns/factorymodel" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -98,13 +89,22 @@
       <filePath value="$PROJECT_DIR$/factorymodel2/abstractfactorymodel.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build designpatterns/singletonmodel" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="designpatterns/singletonmodel" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/singletonmodel/singleton.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build designpatterns/singletonmodel" />
         <item itemvalue="Go Build.go build designpatterns/factorymodel2" />
         <item itemvalue="Go Build.go build designpatterns/factorymodel" />
         <item itemvalue="Go Build.go build designpatterns/CRP" />
         <item itemvalue="Go Build.go build designpatterns/LSP" />
-        <item itemvalue="Go Build.go build designpatterns/OCP" />
       </list>
     </recent_temporary>
   </component>

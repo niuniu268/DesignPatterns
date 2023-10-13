@@ -27,10 +27,14 @@ apply the interface rather than the tangible class
 ![Abstract Factory pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-11%20at%2010.47.30.png?raw=true)
 
 ## Structural Patterns
+- Proxy
+![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2007.39.49.png?raw=true)
+![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2007.39.59.png?raw=true)
+![proxy pattern](https://github.com/niuniu268/DesignPatterns/blob/master/img/Screenshot%202023-10-13%20at%2008.24.26.png?raw=true)
 - Adapter
 - Composite
 - Decorator
-- Proxy
+
 ## Behavioral Patterns
 - Observer
 - Strategy
